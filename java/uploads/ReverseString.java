@@ -1,7 +1,7 @@
 class ReverseString {
 
     public static void main(String[] args) {
-        String str = "Ashutosh", revstr = "";
+        String str = "Bhushan", revstr = "";
         char ch;
 
         System.out.println("Before Reversing : Ashutosh");
